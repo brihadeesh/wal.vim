@@ -35,7 +35,7 @@ hi Underlined ctermbg=NONE ctermfg=1 cterm=bold
 hi StatusLine ctermbg=7 ctermfg=0
 hi StatusLineNC ctermbg=8 ctermfg=0
 hi TabLine ctermbg=NONE ctermfg=8 cterm=bold
-hi TabLineFill ctermbg=NONE ctermfg=8 cterm-bold
+hi TabLineFill ctermbg=NONE ctermfg=8 cterm=bold
 hi TabLineSel ctermbg=4 ctermfg=0 cterm=bold
 hi TermCursorNC ctermbg=3 ctermfg=0
 hi VertSplit ctermbg=8 ctermfg=0
