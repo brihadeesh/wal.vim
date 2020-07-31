@@ -40,9 +40,9 @@ hi TabLineSel ctermbg=4 ctermfg=7 cterm=bold
 hi TermCursorNC ctermbg=3 ctermfg=0
 hi VertSplit ctermbg=8 ctermfg=0
 hi Title ctermbg=NONE ctermfg=4
-hi CursorLine ctermbg=2 ctermfg=0 cterm=bold
+hi CursorLine ctermbg=8 ctermfg=0 cterm=NONE
 hi LineNr ctermbg=NONE ctermfg=8
-hi CursorLineNr ctermbg=NONE ctermfg=8
+hi CursorLineNr ctermbg=NONE ctermfg=2 cterm=NONE
 hi helpLeadBlank ctermbg=NONE ctermfg=7
 hi helpNormal ctermbg=NONE ctermfg=7
 hi Visual ctermbg=0 ctermfg=15 cterm=reverse term=reverse
